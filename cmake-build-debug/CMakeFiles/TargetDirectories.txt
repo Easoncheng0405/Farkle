@@ -1,0 +1,3 @@
+/Users/chengjie/github/Farkle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chengjie/github/Farkle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chengjie/github/Farkle/cmake-build-debug/CMakeFiles/Farkle.dir

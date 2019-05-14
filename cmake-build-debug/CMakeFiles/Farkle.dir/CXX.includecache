@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chengjie/github/Farkle/dice.h
+stdlib.h
+-
+
+/Users/chengjie/github/Farkle/game.cpp
+game.h
+/Users/chengjie/github/Farkle/game.h
+
+/Users/chengjie/github/Farkle/game.h
+iostream
+-
+player.h
+/Users/chengjie/github/Farkle/player.h
+
+/Users/chengjie/github/Farkle/player.cpp
+player.h
+/Users/chengjie/github/Farkle/player.h
+
+/Users/chengjie/github/Farkle/player.h
+iostream
+-
+dice.h
+/Users/chengjie/github/Farkle/dice.h
+
